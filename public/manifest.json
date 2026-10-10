@@ -1,0 +1,17 @@
+{
+  "name": "Strelitzia — Neighbourhood Café, Specialty Coffee & Deli",
+  "short_name": "Strelitzia",
+  "description": "Neighbourhood café and deli on Kingsland Road, Dalston. Specialty coffee, fresh deli food & curated retail.",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#faf8f5",
+  "theme_color": "#c87d4d",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
